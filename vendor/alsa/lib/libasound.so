@@ -1,0 +1,8 @@
+/* Linker script, not a symlink: portable across distros where the exact
+   /usr/lib/<triplet>/ path for libasound.so.2 varies. Redirects `-lasound`
+   at build time to whatever libasound.so.2 the linker finds on its normal
+   search path (already present on ~any Linux desktop as part of ALSA/
+   PulseAudio/PipeWire's ALSA compat layer) — we only vendor the missing
+   *dev* piece (this file + headers + alsa.pc), never the runtime library
+   itself. See CLAUDE.md — "Áudio" section. */
+GROUP ( libasound.so.2 )

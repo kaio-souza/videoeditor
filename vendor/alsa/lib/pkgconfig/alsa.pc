@@ -1,0 +1,12 @@
+prefix=${pcfiledir}/../..
+exec_prefix=${prefix}
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+Name: alsa
+Description: Advanced Linux Sound Architecture (ALSA) - Library (vendored dev headers, see CLAUDE.md)
+Version: 1.2.11
+Requires:
+Libs: -L${libdir} -lasound
+Libs.private: -lm -lpthread -lrt
+Cflags: -I${includedir}

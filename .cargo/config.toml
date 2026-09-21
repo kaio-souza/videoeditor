@@ -1,0 +1,12 @@
+# `alsa-sys` (via `rodio`/`cpal`, seção 12 — áudio) precisa achar `alsa.pc`
+# em tempo de build. `libasound2-dev` não vem instalado por padrão em muita
+# distro Linux e a build não pode depender de alguém rodar `apt`/`sudo`
+# manualmente — os headers (LGPL, redistribuíveis) e um `.pc` auto-relativo
+# (`${pcfiledir}`) estão vendorizados em `vendor/alsa/` dentro do repo. Ver
+# CLAUDE.md — seção "Áudio" — pra detalhes e pra quando isso pode ser
+# removido (se algum dia o projeto trocar de backend de áudio).
+#
+# Não afeta Windows/macOS: `alsa-sys` só entra na build no Linux (cfg do
+# próprio `cpal`); nesse `PKG_CONFIG_PATH` extra ali só fica sem uso.
+[env]
+PKG_CONFIG_PATH = { value = "vendor/alsa/lib/pkgconfig", relative = true }

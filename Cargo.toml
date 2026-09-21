@@ -1,0 +1,21 @@
+[package]
+name = "editor"
+version = "0.1.0"
+edition = "2024"
+description = "Editor de vídeo desktop simples e modular, escrito em Rust (egui/eframe)"
+license = "MIT"
+readme = "README.md"
+
+[dependencies]
+eframe = { version = "0.35.0", features = ["persistence"] }
+egui = "0.35.0"
+ffmpeg-sidecar = "2.5.2"
+rfd = "0.17.2"
+rodio = "0.22.2"
+rust-i18n = "4.2.1"
+rustfft = "6.4.1"
+serde = { version = "1.0.229", features = ["derive"] }
+serde_json = "1.0.151"
+sys-locale = "0.3.2"
+thiserror = "2.0.20"
+uuid = { version = "1.24.1", features = ["serde", "v4"] }
