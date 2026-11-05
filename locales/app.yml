@@ -1,0 +1,1597 @@
+_version: 2
+
+app.title:
+  en: Video Editor
+  pt-BR: Editor de Vídeo
+  es: Editor de vídeo
+  zh-CN: 视频编辑器
+  ja: ビデオエディター
+  hi: वीडियो एडिटर
+  id: Editor Video
+  fr: Éditeur vidéo
+  it: Editor video
+  de: Videoeditor
+
+menu.file:
+  en: File
+  pt-BR: Arquivo
+  es: Archivo
+  zh-CN: 文件
+  ja: ファイル
+  hi: फ़ाइल
+  id: Berkas
+  fr: Fichier
+  it: File
+  de: Datei
+
+menu.file.new_project:
+  en: New Project...
+  pt-BR: Novo Projeto...
+  es: Nuevo proyecto...
+  zh-CN: 新建项目...
+  ja: 新規プロジェクト...
+  hi: नया प्रोजेक्ट...
+  id: Proyek Baru...
+  fr: Nouveau projet...
+  it: Nuovo progetto...
+  de: Neues Projekt...
+
+menu.file.save_project:
+  en: Save Project
+  pt-BR: Salvar Projeto
+  es: Guardar proyecto
+  zh-CN: 保存项目
+  ja: プロジェクトを保存
+  hi: प्रोजेक्ट सहेजें
+  id: Simpan Proyek
+  fr: Enregistrer le projet
+  it: Salva progetto
+  de: Projekt speichern
+
+menu.file.save_project_as:
+  en: Save Project As...
+  pt-BR: Salvar Como...
+  es: Guardar como...
+  zh-CN: 项目另存为...
+  ja: 名前を付けてプロジェクトを保存...
+  hi: प्रोजेक्ट को इस रूप में सहेजें...
+  id: Simpan Proyek Sebagai...
+  fr: Enregistrer le projet sous...
+  it: Salva progetto con nome...
+  de: Projekt speichern unter...
+
+menu.file.open_project:
+  en: Open Project
+  pt-BR: Abrir Projeto
+  es: Abrir proyecto
+  zh-CN: 打开项目
+  ja: プロジェクトを開く
+  hi: प्रोजेक्ट खोलें
+  id: Buka Proyek
+  fr: Ouvrir le projet
+  it: Apri progetto
+  de: Projekt öffnen
+
+menu.file.export:
+  en: Export…
+  pt-BR: Exportar…
+  es: Exportar…
+  zh-CN: 导出…
+  ja: エクスポート…
+  hi: निर्यात करें…
+  id: Ekspor…
+  fr: Exporter…
+  it: Esporta…
+  de: Exportieren…
+
+export.dialog_title:
+  en: Export Settings
+  pt-BR: Configurações de Exportação
+  es: Configuración de exportación
+  zh-CN: 导出设置
+  ja: エクスポート設定
+  hi: निर्यात सेटिंग्स
+  id: Pengaturan Ekspor
+  fr: Paramètres d'export
+  it: Impostazioni di esportazione
+  de: Exporteinstellungen
+
+export.resolution:
+  en: Resolution
+  pt-BR: Resolução
+  es: Resolución
+  zh-CN: 分辨率
+  ja: 解像度
+  hi: रिज़ॉल्यूशन
+  id: Resolusi
+  fr: Résolution
+  it: Risoluzione
+  de: Auflösung
+
+export.format:
+  en: Format
+  pt-BR: Formato
+  es: Formato
+  zh-CN: 格式
+  ja: フォーマット
+  hi: प्रारूप
+  id: Format
+  fr: Format
+  it: Formato
+  de: Format
+
+export.fps:
+  en: Frame Rate
+  pt-BR: Taxa de Quadros
+  es: Velocidad de fotogramas
+  zh-CN: 帧率
+  ja: フレームレート
+  hi: फ़्रेम दर
+  id: Kecepatan Bingkai
+  fr: Fréquence d'images
+  it: Frequenza fotogrammi
+  de: Bildrate
+
+export.quality:
+  en: Quality
+  pt-BR: Qualidade
+  es: Calidad
+  zh-CN: 质量
+  ja: 品質
+  hi: गुणवत्ता
+  id: Kualitas
+  fr: Qualité
+  it: Qualità
+  de: Qualität
+
+export.quality_low:
+  en: Low
+  pt-BR: Baixa
+  es: Baja
+  zh-CN: 低
+  ja: 低
+  hi: कम
+  id: Rendah
+  fr: Faible
+  it: Bassa
+  de: Niedrig
+
+export.quality_medium:
+  en: Medium
+  pt-BR: Média
+  es: Media
+  zh-CN: 中
+  ja: 中
+  hi: मध्यम
+  id: Sedang
+  fr: Moyenne
+  it: Media
+  de: Mittel
+
+export.quality_high:
+  en: High
+  pt-BR: Alta
+  es: Alta
+  zh-CN: 高
+  ja: 高
+  hi: उच्च
+  id: Tinggi
+  fr: Élevée
+  it: Alta
+  de: Hoch
+
+export.quality_veryhigh:
+  en: Very High
+  pt-BR: Muito Alta
+  es: Muy alta
+  zh-CN: 极高
+  ja: 最高
+  hi: बहुत उच्च
+  id: Sangat Tinggi
+  fr: Très élevée
+  it: Molto alta
+  de: Sehr hoch
+
+export.preset_project:
+  en: Project
+  pt-BR: Projeto
+  es: Proyecto
+  zh-CN: 项目
+  ja: プロジェクト
+  hi: प्रोजेक्ट
+  id: Proyek
+  fr: Projet
+  it: Progetto
+  de: Projekt
+
+export.presets:
+  en: Presets
+  pt-BR: Predefinições
+  es: Preajustes
+  zh-CN: 预设
+  ja: プリセット
+  hi: प्रीसेट
+  id: Preset
+  fr: Préréglages
+  it: Predefiniti
+  de: Voreinstellungen
+
+export.preset_youtube_4k:
+  en: YouTube 4K
+  pt-BR: YouTube 4K
+  es: YouTube 4K
+  zh-CN: YouTube 4K
+  ja: YouTube 4K
+  hi: YouTube 4K
+  id: YouTube 4K
+  fr: YouTube 4K
+  it: YouTube 4K
+  de: YouTube 4K
+
+export.preset_youtube_1080p:
+  en: YouTube 1080p
+  pt-BR: YouTube 1080p
+  es: YouTube 1080p
+  zh-CN: YouTube 1080p
+  ja: YouTube 1080p
+  hi: YouTube 1080p
+  id: YouTube 1080p
+  fr: YouTube 1080p
+  it: YouTube 1080p
+  de: YouTube 1080p
+
+export.preset_youtube_720p:
+  en: YouTube 720p
+  pt-BR: YouTube 720p
+  es: YouTube 720p
+  zh-CN: YouTube 720p
+  ja: YouTube 720p
+  hi: YouTube 720p
+  id: YouTube 720p
+  fr: YouTube 720p
+  it: YouTube 720p
+  de: YouTube 720p
+
+export.preset_social_vertical:
+  en: Social Vertical
+  pt-BR: Social Vertical
+  es: Social vertical
+  zh-CN: 社交竖屏
+  ja: SNS縦型
+  hi: सोशल वर्टिकल
+  id: Sosial Vertikal
+  fr: Réseaux verticaux
+  it: Social verticale
+  de: Social vertikal
+
+export.preset_web_compact:
+  en: Web (compact)
+  pt-BR: Web (compacto)
+  es: Web (compacto)
+  zh-CN: 网页（紧凑）
+  ja: Web（コンパクト）
+  hi: वेब (कॉम्पैक्ट)
+  id: Web (ringkas)
+  fr: Web (compact)
+  it: Web (compatto)
+  de: Web (kompakt)
+
+export.success:
+  en: Export completed.
+  pt-BR: Exportação concluída.
+  es: Exportación completada.
+  zh-CN: 导出完成。
+  ja: エクスポートが完了しました。
+  hi: निर्यात पूर्ण हुआ।
+  id: Ekspor selesai.
+  fr: Export terminé.
+  it: Esportazione completata.
+  de: Export abgeschlossen.
+
+export.error:
+  en: "Error: %{error}"
+  pt-BR: "Erro: %{error}"
+  es: "Error: %{error}"
+  zh-CN: "错误：%{error}"
+  ja: "エラー: %{error}"
+  hi: "त्रुटि: %{error}"
+  id: "Error: %{error}"
+  fr: "Erreur : %{error}"
+  it: "Errore: %{error}"
+  de: "Fehler: %{error}"
+
+common.cancel:
+  en: Cancel
+  pt-BR: Cancelar
+  es: Cancelar
+  zh-CN: 取消
+  ja: キャンセル
+  hi: रद्द करें
+  id: Batal
+  fr: Annuler
+  it: Annulla
+  de: Abbrechen
+
+common.ok:
+  en: OK
+  pt-BR: OK
+  es: OK
+  zh-CN: 确定
+  ja: OK
+  hi: ठीक है
+  id: OK
+  fr: OK
+  it: OK
+  de: OK
+
+common.close:
+  en: Close
+  pt-BR: Fechar
+  es: Cerrar
+  zh-CN: 关闭
+  ja: 閉じる
+  hi: बंद करें
+  id: Tutup
+  fr: Fermer
+  it: Chiudi
+  de: Schließen
+
+common.apply:
+  en: Apply
+  pt-BR: Aplicar
+  es: Aplicar
+  zh-CN: 应用
+  ja: 適用
+  hi: लागू करें
+  id: Terapkan
+  fr: Appliquer
+  it: Applica
+  de: Anwenden
+
+menu.edit:
+  en: Edit
+  pt-BR: Editar
+  es: Editar
+  zh-CN: 编辑
+  ja: 編集
+  hi: संपादन
+  id: Edit
+  fr: Édition
+  it: Modifica
+  de: Bearbeiten
+
+menu.edit.preferences:
+  en: Preferences…
+  pt-BR: Preferências…
+  es: Preferencias…
+  zh-CN: 首选项…
+  ja: 環境設定…
+  hi: प्राथमिकताएं…
+  id: Preferensi…
+  fr: Préférences…
+  it: Preferenze…
+  de: Einstellungen…
+
+menu.insert:
+  en: Insert
+  pt-BR: Inserir
+  es: Insertar
+  zh-CN: 插入
+  ja: 挿入
+  hi: सम्मिलित करें
+  id: Sisipkan
+  fr: Insertion
+  it: Inserisci
+  de: Einfügen
+
+menu.insert.video_track:
+  en: Add video track
+  pt-BR: Adicionar faixa de vídeo
+  es: Agregar pista de vídeo
+  zh-CN: 添加视频轨道
+  ja: 動画トラックを追加
+  hi: वीडियो ट्रैक जोड़ें
+  id: Tambah trek video
+  fr: Ajouter une piste vidéo
+  it: Aggiungi traccia video
+  de: Videospur hinzufügen
+
+menu.insert.audio_track:
+  en: Add audio track
+  pt-BR: Adicionar faixa de áudio
+  es: Agregar pista de audio
+  zh-CN: 添加音频轨道
+  ja: オーディオトラックを追加
+  hi: ऑडियो ट्रैक जोड़ें
+  id: Tambah trek audio
+  fr: Ajouter une piste audio
+  it: Aggiungi traccia audio
+  de: Audiospur hinzufügen
+
+menu.view:
+  en: View
+  pt-BR: Exibir
+  es: Ver
+  zh-CN: 视图
+  ja: 表示
+  hi: दृश्य
+  id: Tampilan
+  fr: Affichage
+  it: Visualizza
+  de: Ansicht
+
+menu.view.zoom_in:
+  en: Zoom In
+  pt-BR: Aumentar Zoom
+  es: Acercar
+  zh-CN: 放大
+  ja: 拡大
+  hi: ज़ूम इन करें
+  id: Perbesar
+  fr: Zoomer
+  it: Aumenta zoom
+  de: Vergrößern
+
+menu.view.zoom_out:
+  en: Zoom Out
+  pt-BR: Diminuir Zoom
+  es: Alejar
+  zh-CN: 缩小
+  ja: 縮小
+  hi: ज़ूम आउट करें
+  id: Perkecil
+  fr: Dézoomer
+  it: Riduci zoom
+  de: Verkleinern
+
+menu.view.language:
+  en: Language
+  pt-BR: Idioma
+  es: Idioma
+  zh-CN: 语言
+  ja: 言語
+  hi: भाषा
+  id: Bahasa
+  fr: Langue
+  it: Lingua
+  de: Sprache
+
+common.import_media:
+  en: Import Media…
+  pt-BR: Importar Mídia…
+  es: Importar medios…
+  zh-CN: 导入媒体…
+  ja: メディアをインポート…
+  hi: मीडिया आयात करें…
+  id: Impor Media…
+  fr: Importer un média…
+  it: Importa contenuti multimediali…
+  de: Medien importieren…
+
+common.add_to_timeline:
+  en: Add to timeline
+  pt-BR: Adicionar à timeline
+  es: Añadir a la línea de tiempo
+  zh-CN: 添加到时间线
+  ja: タイムラインに追加
+  hi: टाइमलाइन में जोड़ें
+  id: Tambahkan ke linimasa
+  fr: Ajouter à la chronologie
+  it: Aggiungi alla timeline
+  de: Zur Zeitleiste hinzufügen
+
+common.undo:
+  en: Undo
+  pt-BR: Desfazer
+  es: Deshacer
+  zh-CN: 撤销
+  ja: 元に戻す
+  hi: पूर्ववत करें
+  id: Urungkan
+  fr: Annuler
+  it: Annulla
+  de: Rückgängig
+
+common.redo:
+  en: Redo
+  pt-BR: Refazer
+  es: Rehacer
+  zh-CN: 重做
+  ja: やり直し
+  hi: फिर से करें
+  id: Ulangi
+  fr: Rétablir
+  it: Ripeti
+  de: Wiederholen
+
+common.split:
+  en: Split
+  pt-BR: Dividir
+  es: Dividir
+  zh-CN: 分割
+  ja: 分割
+  hi: विभाजित करें
+  id: Pisahkan
+  fr: Diviser
+  it: Dividi
+  de: Teilen
+
+common.delete_clip:
+  en: Delete Clip
+  pt-BR: Excluir Clipe
+  es: Eliminar clip
+  zh-CN: 删除片段
+  ja: クリップを削除
+  hi: क्लिप हटाएं
+  id: Hapus Klip
+  fr: Supprimer le clip
+  it: Elimina clip
+  de: Clip löschen
+
+common.duplicate_clip:
+  en: Duplicate Clip
+  pt-BR: Duplicar Clipe
+  es: Duplicar clip
+  zh-CN: 复制片段
+  ja: クリップを複製
+  hi: क्लिप डुप्लिकेट करें
+  id: Duplikat Klip
+  fr: Dupliquer le clip
+  it: Duplica clip
+  de: Clip duplizieren
+
+toolbar.play_pause:
+  en: Play / Pause (Space)
+  pt-BR: Reproduzir / Pausar (Espaço)
+  es: Reproducir / Pausar (Espacio)
+  zh-CN: 播放/暂停（空格键）
+  ja: 再生 / 一時停止（スペース）
+  hi: चलाएं / रोकें (स्पेस)
+  id: Putar / Jeda (Spasi)
+  fr: Lecture / Pause (Espace)
+  it: Riproduci / Pausa (Spazio)
+  de: Wiedergabe / Pause (Leertaste)
+
+toolbar.split:
+  en: Split (S)
+  pt-BR: Dividir (S)
+  es: Dividir (S)
+  zh-CN: 分割（S）
+  ja: 分割（S）
+  hi: विभाजित करें (S)
+  id: Pisahkan (S)
+  fr: Diviser (S)
+  it: Dividi (S)
+  de: Teilen (S)
+
+toolbar.delete_clip:
+  en: Delete Clip (Delete)
+  pt-BR: Excluir Clipe (Delete)
+  es: Eliminar clip (Supr)
+  zh-CN: 删除片段（Delete）
+  ja: クリップを削除（Delete）
+  hi: क्लिप हटाएं (Delete)
+  id: Hapus Klip (Delete)
+  fr: Supprimer le clip (Suppr)
+  it: Elimina clip (Canc)
+  de: Clip löschen (Entf)
+
+toolbar.undo:
+  en: Undo (Ctrl+Z)
+  pt-BR: Desfazer (Ctrl+Z)
+  es: Deshacer (Ctrl+Z)
+  zh-CN: 撤销（Ctrl+Z）
+  ja: 元に戻す（Ctrl+Z）
+  hi: पूर्ववत करें (Ctrl+Z)
+  id: Urungkan (Ctrl+Z)
+  fr: Annuler (Ctrl+Z)
+  it: Annulla (Ctrl+Z)
+  de: Rückgängig (Strg+Z)
+
+toolbar.redo:
+  en: Redo (Ctrl+Shift+Z)
+  pt-BR: Refazer (Ctrl+Shift+Z)
+  es: Rehacer (Ctrl+Shift+Z)
+  zh-CN: 重做（Ctrl+Shift+Z）
+  ja: やり直し（Ctrl+Shift+Z）
+  hi: फिर से करें (Ctrl+Shift+Z)
+  id: Ulangi (Ctrl+Shift+Z)
+  fr: Rétablir (Ctrl+Maj+Z)
+  it: Ripeti (Ctrl+Maiusc+Z)
+  de: Wiederholen (Strg+Umschalt+Z)
+
+toolbar.reverse_clip:
+  en: Reverse Clip (R)
+  pt-BR: Inverter Clipe (R)
+  es: Invertir clip (R)
+  zh-CN: 反转片段（R）
+  ja: クリップを反転（R）
+  hi: क्लिप उलटें (R)
+  id: Balikkan Klip (R)
+  fr: Inverser le clip (R)
+  it: Inverti clip (R)
+  de: Clip umkehren (R)
+
+media.header:
+  en: Media
+  pt-BR: Mídia
+  es: Medios
+  zh-CN: 媒体
+  ja: メディア
+  hi: मीडिया
+  id: Media
+  fr: Médias
+  it: Contenuti
+  de: Medien
+
+media.generate_header:
+  en: Generate
+  pt-BR: Gerar
+  es: Generar
+  zh-CN: 生成
+  ja: 生成
+  hi: जनरेट करें
+  id: Buat
+  fr: Générer
+  it: Genera
+  de: Erzeugen
+
+media.solid_color:
+  en: Solid Color
+  pt-BR: Cor Sólida
+  es: Color sólido
+  zh-CN: 纯色
+  ja: 単色
+  hi: ठोस रंग
+  id: Warna Solid
+  fr: Couleur unie
+  it: Colore uniforme
+  de: Einfarbig
+
+media.drag_hint:
+  en: Drag to the timeline
+  pt-BR: Arraste para a timeline
+  es: Arrastra a la línea de tiempo
+  zh-CN: 拖到时间线
+  ja: タイムラインへドラッグ
+  hi: टाइमलाइन पर खींचें
+  id: Seret ke linimasa
+  fr: Glisser vers la chronologie
+  it: Trascina sulla timeline
+  de: Auf die Zeitleiste ziehen
+
+media.empty_title:
+  en: No media imported
+  pt-BR: Nenhuma mídia importada
+  es: Ningún medio importado
+  zh-CN: 尚未导入媒体
+  ja: メディアがインポートされていません
+  hi: कोई मीडिया आयात नहीं किया गया
+  id: Belum ada media yang diimpor
+  fr: Aucun média importé
+  it: Nessun contenuto importato
+  de: Keine Medien importiert
+
+media.empty_hint:
+  en: Drag files here or import above
+  pt-BR: Arraste arquivos aqui ou importe acima
+  es: Arrastra archivos aquí o impórtalos arriba
+  zh-CN: 将文件拖到此处，或使用上方按钮导入
+  ja: ここにファイルをドラッグするか、上のボタンからインポートしてください
+  hi: फ़ाइलें यहां खींचें या ऊपर आयात करें
+  id: Seret file ke sini atau impor di atas
+  fr: Glissez des fichiers ici ou importez-les ci-dessus
+  it: Trascina i file qui oppure importali qui sopra
+  de: Dateien hierher ziehen oder oben importieren
+
+media.missing:
+  en: File not found at its saved location
+  pt-BR: Arquivo não encontrado no local salvo
+  es: Archivo no encontrado en la ubicación guardada
+  zh-CN: 在保存的位置找不到文件
+  ja: 保存された場所にファイルが見つかりません
+  hi: सहेजे गए स्थान पर फ़ाइल नहीं मिली
+  id: File tidak ditemukan di lokasi tersimpan
+  fr: Fichier introuvable à son emplacement enregistré
+  it: File non trovato nella posizione salvata
+  de: Datei am gespeicherten Ort nicht gefunden
+
+media.relink:
+  en: Locate File…
+  pt-BR: Localizar Arquivo…
+  es: Buscar archivo…
+  zh-CN: 定位文件…
+  ja: ファイルを探す…
+  hi: फ़ाइल का पता लगाएं…
+  id: Cari File…
+  fr: Localiser le fichier…
+  it: Individua file…
+  de: Datei suchen…
+
+media.audio_visualizer:
+  en: Audio Visualizer
+  pt-BR: Visualizador de Áudio
+  es: Visualizador de audio
+  zh-CN: 音频可视化
+  ja: オーディオビジュアライザー
+  hi: ऑडियो विज़ुअलाइज़र
+  id: Visualizer Audio
+  fr: Visualiseur audio
+  it: Visualizzatore audio
+  de: Audio-Visualizer
+
+media.audio_visualizer_hint:
+  en: Spectrum bars reacting to the audio, transparent background, customizable color/height/alignment
+  pt-BR: Barras de espectro reagindo ao áudio, fundo transparente, cor/altura/alinhamento customizáveis
+  es: Barras de espectro que reaccionan al audio, fondo transparente, color/altura/alineación personalizables
+  zh-CN: 随音频跳动的频谱条，透明背景，颜色/高度/对齐可自定义
+  ja: 音声に反応するスペクトラムバー、背景透明、色/高さ/配置をカスタマイズ可能
+  hi: ऑडियो पर प्रतिक्रिया करने वाले स्पेक्ट्रम बार, पारदर्शी बैकग्राउंड, रंग/ऊँचाई/संरेखण अनुकूलन योग्य
+  id: Bilah spektrum yang bereaksi terhadap audio, latar transparan, warna/tinggi/perataan dapat disesuaikan
+  fr: Barres de spectre réagissant à l'audio, fond transparent, couleur/hauteur/alignement personnalisables
+  it: Barre di spettro che reagiscono all'audio, sfondo trasparente, colore/altezza/allineamento personalizzabili
+  de: Spektrumbalken, die auf Audio reagieren, transparenter Hintergrund, Farbe/Höhe/Ausrichtung anpassbar
+
+media.visualizer_height:
+  en: Height
+  pt-BR: Altura
+  es: Altura
+  zh-CN: 高度
+  ja: 高さ
+  hi: ऊँचाई
+  id: Tinggi
+  fr: Hauteur
+  it: Altezza
+  de: Höhe
+
+media.visualizer_padding:
+  en: Padding
+  pt-BR: Margem
+  es: Margen
+  zh-CN: 边距
+  ja: 余白
+  hi: पैडिंग
+  id: Bantalan
+  fr: Marge
+  it: Margine
+  de: Abstand
+
+media.visualizer_bar_count:
+  en: Bar Count
+  pt-BR: Quantidade de Barras
+  es: Cantidad de barras
+  zh-CN: 条数
+  ja: バーの数
+  hi: बार की संख्या
+  id: Jumlah Bilah
+  fr: Nombre de barres
+  it: Numero di barre
+  de: Balkenanzahl
+
+media.visualizer_align_base:
+  en: Base
+  pt-BR: Base
+  es: Base
+  zh-CN: 底部
+  ja: 下部
+  hi: आधार
+  id: Dasar
+  fr: Base
+  it: Base
+  de: Basis
+
+media.visualizer_align_center:
+  en: Center
+  pt-BR: Centro
+  es: Centro
+  zh-CN: 居中
+  ja: 中央
+  hi: केंद्र
+  id: Tengah
+  fr: Centre
+  it: Centro
+  de: Mitte
+
+preview.empty:
+  en: No clip at playhead position
+  pt-BR: Nenhum clipe na posição do playhead
+  es: Ningún clip en la posición del cabezal
+  zh-CN: 播放头位置没有片段
+  ja: 再生ヘッドの位置にクリップがありません
+  hi: प्लेहेड की स्थिति पर कोई क्लिप नहीं
+  id: Tidak ada klip di posisi playhead
+  fr: Aucun clip à la position du curseur de lecture
+  it: Nessuna clip nella posizione del playhead
+  de: Kein Clip an der Abspielkopf-Position
+
+preview.previous_frame:
+  en: Previous Frame
+  pt-BR: Frame Anterior
+  es: Fotograma anterior
+  zh-CN: 上一帧
+  ja: 前のフレーム
+  hi: पिछला फ्रेम
+  id: Bingkai Sebelumnya
+  fr: Image précédente
+  it: Fotogramma precedente
+  de: Vorheriges Bild
+
+preview.next_frame:
+  en: Next Frame
+  pt-BR: Próximo Frame
+  es: Siguiente fotograma
+  zh-CN: 下一帧
+  ja: 次のフレーム
+  hi: अगला फ्रेम
+  id: Bingkai Berikutnya
+  fr: Image suivante
+  it: Fotogramma successivo
+  de: Nächstes Bild
+
+inspector.header:
+  en: Inspector
+  pt-BR: Inspetor
+  es: Inspector
+  zh-CN: 检查器
+  ja: インスペクター
+  hi: इंस्पेक्टर
+  id: Inspektor
+  fr: Inspecteur
+  it: Ispettore
+  de: Inspektor
+
+inspector.empty:
+  en: No clip selected
+  pt-BR: Nenhum clipe selecionado
+  es: Ningún clip seleccionado
+  zh-CN: 未选择片段
+  ja: クリップが選択されていません
+  hi: कोई क्लिप चयनित नहीं
+  id: Tidak ada klip yang dipilih
+  fr: Aucun clip sélectionné
+  it: Nessuna clip selezionata
+  de: Kein Clip ausgewählt
+
+inspector.section_clip:
+  en: Clip
+  pt-BR: Clipe
+  es: Clip
+  zh-CN: 片段
+  ja: クリップ
+  hi: क्लिप
+  id: Klip
+  fr: Clip
+  it: Clip
+  de: Clip
+
+inspector.section_fade:
+  en: Fade
+  pt-BR: Fade
+  es: Fundido
+  zh-CN: 淡入淡出
+  ja: フェード
+  hi: फ़ेड
+  id: Fade
+  fr: Fondu
+  it: Dissolvenza
+  de: Überblendung
+
+inspector.section_playback:
+  en: Playback
+  pt-BR: Reprodução
+  es: Reproducción
+  zh-CN: 播放
+  ja: 再生
+  hi: प्लेबैक
+  id: Pemutaran
+  fr: Lecture
+  it: Riproduzione
+  de: Wiedergabe
+
+inspector.section_track:
+  en: Track
+  pt-BR: Faixa
+  es: Pista
+  zh-CN: 轨道
+  ja: トラック
+  hi: ट्रैक
+  id: Trek
+  fr: Piste
+  it: Traccia
+  de: Spur
+
+inspector.volume:
+  en: Volume
+  pt-BR: Volume
+  es: Volumen
+  zh-CN: 音量
+  ja: 音量
+  hi: वॉल्यूम
+  id: Volume
+  fr: Volume
+  it: Volume
+  de: Lautstärke
+
+inspector.pan:
+  en: Balance
+  pt-BR: Balanço
+  es: Balance
+  zh-CN: 声道平衡
+  ja: バランス
+  hi: संतुलन
+  id: Balans
+  fr: Balance
+  it: Bilanciamento
+  de: Balance
+
+inspector.opacity:
+  en: Opacity
+  pt-BR: Opacidade
+  es: Opacidad
+  zh-CN: 不透明度
+  ja: 不透明度
+  hi: अपारदर्शिता
+  id: Opasitas
+  fr: Opacité
+  it: Opacità
+  de: Deckkraft
+
+inspector.fade_in:
+  en: Fade In
+  pt-BR: Fade In
+  es: Fade In
+  zh-CN: 淡入
+  ja: フェードイン
+  hi: फ़ेड इन
+  id: Fade In
+  fr: Fondu entrant
+  it: Dissolvenza in apertura
+  de: Einblenden
+
+inspector.fade_out:
+  en: Fade Out
+  pt-BR: Fade Out
+  es: Fade Out
+  zh-CN: 淡出
+  ja: フェードアウト
+  hi: फ़ेड आउट
+  id: Fade Out
+  fr: Fondu sortant
+  it: Dissolvenza in chiusura
+  de: Ausblenden
+
+inspector.reversed:
+  en: Reversed
+  pt-BR: Invertido
+  es: Invertido
+  zh-CN: 反转
+  ja: 反転
+  hi: उल्टा
+  id: Terbalik
+  fr: Inversé
+  it: Invertito
+  de: Umgekehrt
+
+inspector.muted:
+  en: Muted
+  pt-BR: Mudo
+  es: Silenciado
+  zh-CN: 静音
+  ja: ミュート
+  hi: म्यूट
+  id: Bisu
+  fr: Muet
+  it: Silenziato
+  de: Stummgeschaltet
+
+inspector.hidden:
+  en: Hidden
+  pt-BR: Oculta
+  es: Oculta
+  zh-CN: 隐藏
+  ja: 非表示
+  hi: छिपा हुआ
+  id: Tersembunyi
+  fr: Masquée
+  it: Nascosta
+  de: Ausgeblendet
+
+inspector.background:
+  en: Background
+  pt-BR: Fundo
+  es: Fondo
+  zh-CN: 背景
+  ja: 背景
+  hi: पृष्ठभूमि
+  id: Latar Belakang
+  fr: Arrière-plan
+  it: Sfondo
+  de: Hintergrund
+
+timeline.header:
+  en: Timeline
+  pt-BR: Linha do Tempo
+  es: Línea de tiempo
+  zh-CN: 时间线
+  ja: タイムライン
+  hi: टाइमलाइन
+  id: Linimasa
+  fr: Chronologie
+  it: Timeline
+  de: Zeitleiste
+
+timeline.rename_track:
+  en: Rename track
+  pt-BR: Renomear faixa
+  es: Renombrar pista
+  zh-CN: 重命名轨道
+  ja: トラック名を変更
+  hi: ट्रैक का नाम बदलें
+  id: Ganti nama trek
+  fr: Renommer la piste
+  it: Rinomina traccia
+  de: Spur umbenennen
+
+timeline.toggle_visibility:
+  en: Show/hide track
+  pt-BR: Mostrar/ocultar faixa
+  es: Mostrar/ocultar pista
+  zh-CN: 显示/隐藏轨道
+  ja: トラックの表示/非表示
+  hi: ट्रैक दिखाएँ/छुपाएँ
+  id: Tampilkan/sembunyikan trek
+  fr: Afficher/masquer la piste
+  it: Mostra/nascondi traccia
+  de: Spur ein-/ausblenden
+
+timeline.toggle_mute:
+  en: Mute/unmute track
+  pt-BR: Mutar/desmutar faixa
+  es: Silenciar/activar pista
+  zh-CN: 静音/取消静音轨道
+  ja: トラックのミュート切替
+  hi: ट्रैक म्यूट/अनम्यूट करें
+  id: Bisukan/aktifkan trek
+  fr: Couper/rétablir la piste
+  it: Disattiva/riattiva traccia
+  de: Spur stummschalten/aktivieren
+
+timeline.remove_track:
+  en: Remove track
+  pt-BR: Remover faixa
+  es: Quitar pista
+  zh-CN: 移除轨道
+  ja: トラックを削除
+  hi: ट्रैक हटाएँ
+  id: Hapus trek
+  fr: Supprimer la piste
+  it: Rimuovi traccia
+  de: Spur entfernen
+
+timeline.add_video_track:
+  en: Add video track
+  pt-BR: Adicionar faixa de vídeo
+  es: Agregar pista de vídeo
+  zh-CN: 添加视频轨道
+  ja: 動画トラックを追加
+  hi: वीडियो ट्रैक जोड़ें
+  id: Tambah trek video
+  fr: Ajouter une piste vidéo
+  it: Aggiungi traccia video
+  de: Videospur hinzufügen
+
+timeline.add_audio_track:
+  en: Add audio track
+  pt-BR: Adicionar faixa de áudio
+  es: Agregar pista de audio
+  zh-CN: 添加音频轨道
+  ja: オーディオトラックを追加
+  hi: ऑडियो ट्रैक जोड़ें
+  id: Tambah trek audio
+  fr: Ajouter une piste audio
+  it: Aggiungi traccia audio
+  de: Audiospur hinzufügen
+
+timeline.drop_to_create_track:
+  en: Drop media here to create a new track
+  pt-BR: Solte a mídia aqui para criar uma nova faixa
+  es: Suelta el medio aquí para crear una nueva pista
+  zh-CN: 将媒体拖到此处以创建新轨道
+  ja: ここにメディアをドロップして新しいトラックを作成
+  hi: नया ट्रैक बनाने के लिए मीडिया यहाँ छोड़ें
+  id: Lepas media di sini untuk membuat trek baru
+  fr: Déposez un média ici pour créer une nouvelle piste
+  it: Rilascia qui i contenuti per creare una nuova traccia
+  de: Medien hier ablegen, um eine neue Spur zu erstellen
+
+timeline.pan_crop:
+  en: Pan/Crop...
+  pt-BR: Pan/Crop...
+  es: Pan/Crop...
+  zh-CN: 平移/裁剪...
+  ja: パン/クロップ...
+  hi: पैन/क्रॉप...
+  id: Pan/Crop...
+  fr: Pan/Crop...
+  it: Pan/Crop...
+  de: Pan/Crop...
+
+common.remove:
+  en: Remove
+  pt-BR: Remover
+  es: Quitar
+  zh-CN: 移除
+  ja: 削除
+  hi: हटाएं
+  id: Hapus
+  fr: Retirer
+  it: Rimuovi
+  de: Entfernen
+
+status.saved:
+  en: "Saved: %{path}"
+  pt-BR: "Salvo: %{path}"
+  es: "Guardado: %{path}"
+  zh-CN: "已保存：%{path}"
+  ja: "保存しました: %{path}"
+  hi: "सहेजा गया: %{path}"
+  id: "Disimpan: %{path}"
+  fr: "Enregistré : %{path}"
+  it: "Salvato: %{path}"
+  de: "Gespeichert: %{path}"
+
+status.save_error:
+  en: "Error saving: %{error}"
+  pt-BR: "Erro ao salvar: %{error}"
+  es: "Error al guardar: %{error}"
+  zh-CN: "保存出错：%{error}"
+  ja: "保存エラー: %{error}"
+  hi: "सहेजने में त्रुटि: %{error}"
+  id: "Gagal menyimpan: %{error}"
+  fr: "Erreur d'enregistrement : %{error}"
+  it: "Errore durante il salvataggio: %{error}"
+  de: "Fehler beim Speichern: %{error}"
+
+status.project_opened:
+  en: "Project opened: %{path}"
+  pt-BR: "Projeto aberto: %{path}"
+  es: "Proyecto abierto: %{path}"
+  zh-CN: "已打开项目：%{path}"
+  ja: "プロジェクトを開きました: %{path}"
+  hi: "प्रोजेक्ट खोला गया: %{path}"
+  id: "Proyek dibuka: %{path}"
+  fr: "Projet ouvert : %{path}"
+  it: "Progetto aperto: %{path}"
+  de: "Projekt geöffnet: %{path}"
+
+status.project_opened_missing_media:
+  en: "Project opened — media not found: %{files}"
+  pt-BR: "Projeto aberto — mídia não encontrada: %{files}"
+  es: "Proyecto abierto — medios no encontrados: %{files}"
+  zh-CN: "项目已打开 — 找不到媒体：%{files}"
+  ja: "プロジェクトを開きました — メディアが見つかりません: %{files}"
+  hi: "प्रोजेक्ट खोला गया — मीडिया नहीं मिला: %{files}"
+  id: "Proyek dibuka — media tidak ditemukan: %{files}"
+  fr: "Projet ouvert — médias introuvables : %{files}"
+  it: "Progetto aperto — contenuti non trovati: %{files}"
+  de: "Projekt geöffnet — Medien nicht gefunden: %{files}"
+
+status.open_error:
+  en: "Error opening project: %{error}"
+  pt-BR: "Erro ao abrir projeto: %{error}"
+  es: "Error al abrir el proyecto: %{error}"
+  zh-CN: "打开项目出错：%{error}"
+  ja: "プロジェクトを開けませんでした: %{error}"
+  hi: "प्रोजेक्ट खोलने में त्रुटि: %{error}"
+  id: "Gagal membuka proyek: %{error}"
+  fr: "Erreur à l'ouverture du projet : %{error}"
+  it: "Errore nell'apertura del progetto: %{error}"
+  de: "Fehler beim Öffnen des Projekts: %{error}"
+
+status.media_imported:
+  en: "%{count} media imported"
+  pt-BR: "%{count} mídia(s) importada(s)"
+  es: "%{count} medio(s) importado(s)"
+  zh-CN: "已导入 %{count} 个媒体"
+  ja: "%{count} 件のメディアをインポートしました"
+  hi: "%{count} मीडिया आयात की गई"
+  id: "%{count} media diimpor"
+  fr: "%{count} média(s) importé(s)"
+  it: "%{count} contenuti importati"
+  de: "%{count} Medien importiert"
+
+status.media_imported_with_errors:
+  en: "%{count} media imported — metadata not read: %{files}"
+  pt-BR: "%{count} mídia(s) importada(s) — metadados não lidos: %{files}"
+  es: "%{count} medio(s) importado(s) — metadatos no leídos: %{files}"
+  zh-CN: "已导入 %{count} 个媒体 — 未能读取元数据：%{files}"
+  ja: "%{count} 件のメディアをインポートしました — メタデータを読めませんでした: %{files}"
+  hi: "%{count} मीडिया आयात की गई — मेटाडेटा नहीं पढ़ा गया: %{files}"
+  id: "%{count} media diimpor — metadata tidak terbaca: %{files}"
+  fr: "%{count} média(s) importé(s) — métadonnées non lues : %{files}"
+  it: "%{count} contenuti importati — metadati non letti: %{files}"
+  de: "%{count} Medien importiert — Metadaten nicht gelesen: %{files}"
+
+status.unsupported_media:
+  en: unsupported file type
+  pt-BR: formato de arquivo não suportado
+  es: tipo de archivo no compatible
+  zh-CN: 不支持的文件类型
+  ja: 未対応のファイル形式
+  hi: असमर्थित फ़ाइल प्रकार
+  id: jenis berkas tidak didukung
+  fr: type de fichier non pris en charge
+  it: tipo di file non supportato
+  de: nicht unterstützter Dateityp
+
+status.media_relinked:
+  en: Media relocated.
+  pt-BR: Mídia relocalizada.
+  es: Medio reubicado.
+  zh-CN: 媒体已重新链接。
+  ja: メディアの場所を更新しました。
+  hi: मीडिया का स्थान बदला गया।
+  id: Media dipindahkan.
+  fr: Média relocalisé.
+  it: Contenuto ricollegato.
+  de: Medium neu verknüpft.
+
+preferences.title:
+  en: Preferences
+  pt-BR: Preferências
+  es: Preferencias
+  zh-CN: 首选项
+  ja: 環境設定
+  hi: प्राथमिकताएं
+  id: Preferensi
+  fr: Préférences
+  it: Preferenze
+  de: Einstellungen
+
+preferences.presets:
+  en: Presets
+  pt-BR: Presets
+  es: Preajustes
+  zh-CN: 预设
+  ja: プリセット
+  hi: प्रीसेट
+  id: Preset
+  fr: Préréglages
+  it: Preset
+  de: Voreinstellungen
+
+preferences.presets_hint:
+  en: Applies a whole set of shortcuts at once — you can still edit any of them individually below.
+  pt-BR: Aplica um conjunto inteiro de atalhos de uma vez — ainda dá pra editar qualquer um deles individualmente abaixo.
+  es: Aplica un conjunto completo de atajos a la vez — igual puedes editar cualquiera individualmente abajo.
+  zh-CN: 一次性套用一整套快捷键——下面仍可单独修改任意一项。
+  ja: ショートカットの組み合わせを一括で適用します — 下で個別に編集することもできます。
+  hi: शॉर्टकट का पूरा सेट एक साथ लागू करता है — नीचे किसी को भी अलग से बदला जा सकता है।
+  id: Menerapkan satu set pintasan sekaligus — masing-masing tetap bisa diedit satu per satu di bawah.
+  fr: Applique tout un ensemble de raccourcis à la fois — vous pouvez toujours en modifier un individuellement ci-dessous.
+  it: Applica un intero set di scorciatoie in una volta — puoi comunque modificarne una singolarmente qui sotto.
+  de: Wendet einen ganzen Satz Tastenkürzel auf einmal an — jedes davon lässt sich unten weiterhin einzeln anpassen.
+
+preferences.preset_default:
+  en: Default
+  pt-BR: Padrão
+  es: Predeterminado
+  zh-CN: 默认
+  ja: デフォルト
+  hi: डिफ़ॉल्ट
+  id: Bawaan
+  fr: Par défaut
+  it: Predefinito
+  de: Standard
+
+preferences.preset_vegas:
+  en: Vegas
+  pt-BR: Vegas
+  es: Vegas
+  zh-CN: Vegas
+  ja: Vegas
+  hi: Vegas
+  id: Vegas
+  fr: Vegas
+  it: Vegas
+  de: Vegas
+
+preferences.preset_premiere:
+  en: Premiere
+  pt-BR: Premiere
+  es: Premiere
+  zh-CN: Premiere
+  ja: Premiere
+  hi: Premiere
+  id: Premiere
+  fr: Premiere
+  it: Premiere
+  de: Premiere
+
+preferences.preset_capcut:
+  en: CapCut
+  pt-BR: CapCut
+  es: CapCut
+  zh-CN: CapCut
+  ja: CapCut
+  hi: CapCut
+  id: CapCut
+  fr: CapCut
+  it: CapCut
+  de: CapCut
+
+preferences.shortcuts:
+  en: Keyboard Shortcuts
+  pt-BR: Atalhos de Teclado
+  es: Atajos de Teclado
+  zh-CN: 键盘快捷键
+  ja: キーボードショートカット
+  hi: कीबोर्ड शॉर्टकट
+  id: Pintasan Keyboard
+  fr: Raccourcis Clavier
+  it: Scorciatoie da Tastiera
+  de: Tastenkürzel
+
+preferences.press_a_key:
+  en: Press a key combination… (Esc to cancel)
+  pt-BR: Pressione uma combinação de teclas… (Esc pra cancelar)
+  es: Presiona una combinación de teclas… (Esc para cancelar)
+  zh-CN: 请按下按键组合……（按 Esc 取消）
+  ja: キーの組み合わせを押してください…（Escでキャンセル）
+  hi: कुंजी संयोजन दबाएं… (रद्द करने के लिए Esc)
+  id: Tekan kombinasi tombol… (Esc untuk batal)
+  fr: Appuyez sur une combinaison de touches… (Échap pour annuler)
+  it: Premi una combinazione di tasti… (Esc per annullare)
+  de: Tastenkombination drücken… (Esc zum Abbrechen)
+
+preferences.click_to_record:
+  en: Click, then press the new key combination
+  pt-BR: Clique e depois pressione a nova combinação de teclas
+  es: Haz clic y luego presiona la nueva combinación de teclas
+  zh-CN: 点击后按下新的按键组合
+  ja: クリックしてから新しいキーの組み合わせを押してください
+  hi: क्लिक करें, फिर नया कुंजी संयोजन दबाएं
+  id: Klik, lalu tekan kombinasi tombol baru
+  fr: Cliquez, puis appuyez sur la nouvelle combinaison de touches
+  it: Clicca, poi premi la nuova combinazione di tasti
+  de: Klicken und dann die neue Tastenkombination drücken
+
+preferences.reset_defaults:
+  en: Reset to Default
+  pt-BR: Restaurar Padrão
+  es: Restablecer Predeterminado
+  zh-CN: 恢复默认
+  ja: デフォルトに戻す
+  hi: डिफ़ॉल्ट पर रीसेट करें
+  id: Kembalikan ke Bawaan
+  fr: Réinitialiser par défaut
+  it: Ripristina predefiniti
+  de: Auf Standard zurücksetzen
+
+shortcuts.play_pause:
+  en: Play / Pause
+  pt-BR: Reproduzir / Pausar
+  es: Reproducir / Pausar
+  zh-CN: 播放/暂停
+  ja: 再生 / 一時停止
+  hi: चलाएं / रोकें
+  id: Putar / Jeda
+  fr: Lecture / Pause
+  it: Riproduci / Pausa
+  de: Wiedergabe / Pause
+
+pan_crop.title:
+  en: Pan/Crop
+  pt-BR: Pan/Crop
+  es: Pan/Crop
+  zh-CN: 平移/裁剪
+  ja: パン/クロップ
+  hi: पैन/क्रॉप
+  id: Pan/Crop
+  fr: Pan/Crop
+  it: Pan/Crop
+  de: Pan/Crop
+
+pan_crop.hint:
+  en: Drag the corners to zoom, drag inside to pan.
+  pt-BR: Arraste os cantos para dar zoom, arraste dentro para deslocar.
+  es: Arrastra las esquinas para hacer zoom, arrastra dentro para desplazar.
+  zh-CN: 拖动四角进行缩放,在框内拖动进行平移。
+  ja: 隅をドラッグしてズーム、内側をドラッグしてパンします。
+  hi: ज़ूम करने के लिए कोनों को खींचें, पैन करने के लिए अंदर खींचें।
+  id: Seret sudut untuk memperbesar, seret di dalam untuk menggeser.
+  fr: Faites glisser les coins pour zoomer, glissez à l'intérieur pour déplacer.
+  it: Trascina gli angoli per zoomare, trascina all'interno per spostare.
+  de: Ecken ziehen zum Zoomen, im Inneren ziehen zum Verschieben.
+
+pan_crop.zoom:
+  en: Zoom
+  pt-BR: Zoom
+  es: Zoom
+  zh-CN: 缩放
+  ja: ズーム
+  hi: ज़ूम
+  id: Perbesar
+  fr: Zoom
+  it: Zoom
+  de: Zoom
+
+pan_crop.reset:
+  en: Reset
+  pt-BR: Redefinir
+  es: Restablecer
+  zh-CN: 重置
+  ja: リセット
+  hi: रीसेट करें
+  id: Atur Ulang
+  fr: Réinitialiser
+  it: Ripristina
+  de: Zurücksetzen
+
+pan_crop.decode_failed:
+  en: could not read a frame from this media
+  pt-BR: não foi possível ler um frame dessa mídia
+  es: no se pudo leer un fotograma de este medio
+  zh-CN: 无法从该媒体读取帧
+  ja: このメディアからフレームを読み取れませんでした
+  hi: इस मीडिया से फ़्रेम नहीं पढ़ सका
+  id: tidak dapat membaca bingkai dari media ini
+  fr: impossible de lire une image de ce média
+  it: impossibile leggere un fotogramma da questo contenuto
+  de: Es konnte kein Frame aus diesem Medium gelesen werden
+
+welcome.subtitle:
+  en: Open a project, start a new one, or continue where you left off.
+  pt-BR: Abra um projeto, comece um novo ou continue de onde parou.
+  es: Abre un proyecto, crea uno nuevo o continúa donde lo dejaste.
+  zh-CN: 打开项目、新建项目,或继续上次的工作。
+  ja: プロジェクトを開く、新規作成する、または続きから始めましょう。
+  hi: किसी प्रोजेक्ट को खोलें, नया शुरू करें, या जहाँ छोड़ा था वहीं से जारी रखें।
+  id: Buka proyek, mulai yang baru, atau lanjutkan dari terakhir kali.
+  fr: Ouvrez un projet, créez-en un nouveau ou reprenez là où vous vous étiez arrêté.
+  it: Apri un progetto, creane uno nuovo o continua da dove avevi interrotto.
+  de: Öffne ein Projekt, starte ein neues oder mach dort weiter, wo du aufgehört hast.
+
+welcome.new_project:
+  en: New Project
+  pt-BR: Novo Projeto
+  es: Nuevo proyecto
+  zh-CN: 新建项目
+  ja: 新規プロジェクト
+  hi: नया प्रोजेक्ट
+  id: Proyek Baru
+  fr: Nouveau projet
+  it: Nuovo progetto
+  de: Neues Projekt
+
+welcome.custom:
+  en: Custom dimensions
+  pt-BR: Dimensões personalizadas
+  es: Dimensiones personalizadas
+  zh-CN: 自定义尺寸
+  ja: カスタムサイズ
+  hi: कस्टम आयाम
+  id: Dimensi Kustom
+  fr: Dimensions personnalisées
+  it: Dimensioni personalizzate
+  de: Benutzerdefinierte Maße
+
+welcome.fps:
+  en: FPS
+  pt-BR: FPS
+  es: FPS
+  zh-CN: FPS
+  ja: FPS
+  hi: FPS
+  id: FPS
+  fr: FPS
+  it: FPS
+  de: FPS
+
+welcome.create:
+  en: Create Project
+  pt-BR: Criar Projeto
+  es: Crear proyecto
+  zh-CN: 创建项目
+  ja: プロジェクトを作成
+  hi: प्रोजेक्ट बनाएं
+  id: Buat Proyek
+  fr: Créer le projet
+  it: Crea progetto
+  de: Projekt erstellen
+
+welcome.open:
+  en: Open
+  pt-BR: Abrir
+  es: Abrir
+  zh-CN: 打开
+  ja: 開く
+  hi: खोलें
+  id: Buka
+  fr: Ouvrir
+  it: Apri
+  de: Öffnen
+
+welcome.recent:
+  en: Recent Projects
+  pt-BR: Projetos Recentes
+  es: Proyectos recientes
+  zh-CN: 最近的项目
+  ja: 最近使用したプロジェクト
+  hi: हाल के प्रोजेक्ट
+  id: Proyek Terbaru
+  fr: Projets récents
+  it: Progetti recenti
+  de: Zuletzt verwendete Projekte
+
+welcome.no_recents:
+  en: No recent projects yet.
+  pt-BR: Nenhum projeto recente ainda.
+  es: Aún no hay proyectos recientes.
+  zh-CN: 暂无最近的项目。
+  ja: 最近使用したプロジェクトはまだありません。
+  hi: अभी तक कोई हाल का प्रोजेक्ट नहीं है।
+  id: Belum ada proyek terbaru.
+  fr: Aucun projet récent pour le moment.
+  it: Ancora nessun progetto recente.
+  de: Noch keine zuletzt verwendeten Projekte.
+
+welcome.template_youtube_1080p:
+  en: YouTube 1080p
+  pt-BR: YouTube 1080p
+  es: YouTube 1080p
+  zh-CN: YouTube 1080p
+  ja: YouTube 1080p
+  hi: YouTube 1080p
+  id: YouTube 1080p
+  fr: YouTube 1080p
+  it: YouTube 1080p
+  de: YouTube 1080p
+
+welcome.template_youtube_4k:
+  en: YouTube 4K
+  pt-BR: YouTube 4K
+  es: YouTube 4K
+  zh-CN: YouTube 4K
+  ja: YouTube 4K
+  hi: YouTube 4K
+  id: YouTube 4K
+  fr: YouTube 4K
+  it: YouTube 4K
+  de: YouTube 4K
+
+welcome.template_vertical:
+  en: Vertical / Stories
+  pt-BR: Vertical / Stories
+  es: Vertical / Stories
+  zh-CN: 竖屏 / Stories
+  ja: 縦型 / ストーリーズ
+  hi: वर्टिकल / स्टोरीज़
+  id: Vertikal / Stories
+  fr: Vertical / Stories
+  it: Verticale / Stories
+  de: Hochformat / Stories
+
+welcome.template_square:
+  en: Square
+  pt-BR: Quadrado
+  es: Cuadrado
+  zh-CN: 方形
+  ja: 正方形
+  hi: वर्गाकार
+  id: Persegi
+  fr: Carré
+  it: Quadrato
+  de: Quadratisch
+
+welcome.template_cinema:
+  en: Cinema
+  pt-BR: Cinema
+  es: Cine
+  zh-CN: 电影
+  ja: シネマ
+  hi: सिनेमा
+  id: Sinema
+  fr: Cinéma
+  it: Cinema
+  de: Kino
